@@ -1,0 +1,60 @@
+{
+  "college_name": "ABC Institute of Technology",
+  "faqs": [
+    { "question": "hi", "answer": "Hello!  Welcome to ABC Institute of Technology. How can I help you?" },
+    { "question": "hello", "answer": "Hi there!  How can I assist you today?" },
+    { "question": "hey", "answer": "Hey!  What would you like to know about the college?" },
+    { "question": "Where is ABC Institute of Technology located?", "answer": "ABC Institute of Technology is located in Coimbatore, Tamil Nadu, India." },
+    { "question": "Where is the college located?", "answer": "ABC Institute of Technology is located in Coimbatore, Tamil Nadu, India." },
+    { "question": "College location", "answer": "ABC Institute of Technology is located in Coimbatore, Tamil Nadu, India." },
+    { "question": "Location of college", "answer": "ABC Institute of Technology is located in Coimbatore, Tamil Nadu, India." },
+
+    { "question": "What courses are offered?", "answer": "The college offers B.Tech courses in Computer Science, IT, ECE, Mechanical, and Civil Engineering." },
+    { "question": "Available courses", "answer": "The college offers B.Tech courses in Computer Science, IT, ECE, Mechanical, and Civil Engineering." },
+
+    { "question": "What is course duration?", "answer": "All B.Tech courses have a duration of 4 years." },
+    { "question": "Duration of courses", "answer": "All B.Tech courses have a duration of 4 years." },
+
+    { "question": "What is admission process?", "answer": "Admissions are based on 12th marks and entrance exam scores." },
+    { "question": "How to get admission?", "answer": "Admissions are based on 12th marks and entrance exam scores." },
+
+    { "question": "What is the fee?", "answer": "The annual tuition fee is ₹1,00,000 for all courses." },
+    { "question": "Fee structure", "answer": "The annual tuition fee is ₹1,00,000 for all courses." },
+    { "question": "How much fees?", "answer": "The annual tuition fee is ₹1,00,000 for all courses." },
+
+    { "question": "Any extra fees?", "answer": "Yes, additional charges may include exam fees, hostel fees, and transport fees." },
+
+    { "question": "Scholarships available?", "answer": "Yes, scholarships are provided based on merit and government schemes." },
+
+    { "question": "College timings?", "answer": "The college works from 9:00 AM to 4:00 PM, Monday to Friday." },
+
+    { "question": "Payment methods?", "answer": "Payments can be made via UPI, net banking, debit/credit cards, and bank transfer." },
+
+    { "question": "Dress code?", "answer": "Yes, students must wear formal attire or college uniform." },
+
+    { "question": "Hostel available?", "answer": "Yes, separate hostels are available for boys and girls." },
+
+    { "question": "Transport facility?", "answer": "Yes, buses are available covering major routes in the city." },
+
+    { "question": "Campus facilities?", "answer": "Facilities include library, labs, sports complex, Wi-Fi, and cafeteria." },
+
+    { "question": "Placement cell?", "answer": "Yes, the college has a dedicated placement cell." },
+
+    { "question": "Average package?", "answer": "The average package is around ₹4-6 LPA." },
+
+    { "question": "Attendance required?", "answer": "Yes, students must maintain at least 75% attendance." },
+
+    { "question": "WiFi available?", "answer": "Yes, Wi-Fi is available for students across the campus." },
+
+    { "question": "Library available?", "answer": "Yes, a well-equipped library with books and digital resources is available." },
+
+    { "question": "Contact details?", "answer": "You can contact via email info@abcinstitute.edu or call +91-9876543210." },
+
+    { "question": "extracurricular activities", "answer": "Yes, the college supports sports, clubs, and cultural events." },
+
+    { "question": "activities in college", "answer": "Yes, the college supports sports, clubs, and cultural events." },
+
+    { "question": "dress code in college", "answer": "Yes, students must wear formal attire or college uniform." }
+
+  ]
+}
