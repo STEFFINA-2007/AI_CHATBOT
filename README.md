@@ -1,0 +1,1 @@
+An AI-powered college chatbot built using Streamlit and NLP techniques. It answers student queries about admissions, courses, fees, facilities, and more using TF-IDF and cosine similarity, providing quick and accurate responses through an interactive interface.
